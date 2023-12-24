@@ -1,0 +1,39 @@
+{
+  "reviews": [
+    {
+      "text": "ssssssssssssssss",
+      "rating": 9,
+      "id": 1
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 9,
+      "id": 3
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 9,
+      "id": 4
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 9,
+      "id": 5
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 8,
+      "id": 6
+    },
+    {
+      "text": "ssssssssssssssss",
+      "rating": 8,
+      "id": 7
+    }
+  ]
+}
